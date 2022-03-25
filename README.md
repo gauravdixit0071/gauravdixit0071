@@ -1,7 +1,7 @@
 - 👋 Hi, I am Gaurav Dixit
 - 👀 I love to solve programming challanges and puzzles.
 - 🌱 I’m currently learning Spring security.
-- 💞️ I’m looking to collaborate on the Java, Spring, micro services etc.
+- 💞️ I’m looking to collaborate on the Java, Spring Boot, micro services, angular, java script etc.
 - 📫 You can reach me at gauravdixit0071@gmail.com
 
 <!---
